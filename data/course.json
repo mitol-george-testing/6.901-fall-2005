@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cc80813e-ad5d-ff21-4841-b124ffd4bac1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Inventions and Patents",
+  "course_description": "This course explores the history of private and public rights in scientific discoveries and applied engineering, leading to the development of worldwide patent systems. The classes of invention protectable under the patent laws of the U.S., including the procedures in protecting inventions in the Patent Office and the courts will be examined. A review of past cases involving inventions and patents in:\n\n1.  the chemical process industry and medical pharmaceutical, biological, and genetic-engineering fields;\n2.  devices in the mechanical, ocean exploration, civil, and/or aeronautical fields;\n3.  the electrical, computer, software, and electronic areas, including key radio, solid-state, computer and software inventions; and also\n4.  software protection afforded under copyright laws.\n\nPeriodic joint real-time class sessions and discussions by video-audio Internet conferencing, with other universities will also be conducted.\n",
+  "department_numbers": [
+    "6",
+    "3",
+    "16"
+  ],
+  "extra_course_numbers": "3.172,16.652",
+  "primary_course_number": "6.901",
+  "learning_resource_types": [
+    "Online Textbook",
+    "Course Introduction"
+  ],
+  "title": "Course Metadata"
+}
